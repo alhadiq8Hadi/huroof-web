@@ -1,0 +1,52 @@
+<svg viewBox="40 50 140 140" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="sqBg" x1="1" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0A1F4E"/>
+      <stop offset="50%" stop-color="#1B3A7A"/>
+      <stop offset="100%" stop-color="#7A5500"/>
+    </linearGradient>
+    <linearGradient id="inBg" x1="1" y1="1" x2="0" y2="0">
+      <stop offset="0%" stop-color="#060F2A"/>
+      <stop offset="55%" stop-color="#0D2A6E"/>
+      <stop offset="100%" stop-color="#1A4A8A"/>
+    </linearGradient>
+    <linearGradient id="glr" x1="1" y1="0" x2="0" y2="0">
+      <stop offset="0%" stop-color="#FFD700"/>
+      <stop offset="35%" stop-color="#FFE566"/>
+      <stop offset="68%" stop-color="#90CAF9"/>
+      <stop offset="100%" stop-color="#1565C0"/>
+    </linearGradient>
+    <linearGradient id="shad" x1="1" y1="0" x2="0" y2="0">
+      <stop offset="0%" stop-color="#8B6200"/>
+      <stop offset="100%" stop-color="#0A2A60"/>
+    </linearGradient>
+    <linearGradient id="bigGold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FFD700" stop-opacity="0.75"/>
+      <stop offset="100%" stop-color="#8B6200" stop-opacity="0.45"/>
+    </linearGradient>
+    <linearGradient id="bigBlue" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1565C0" stop-opacity="0.75"/>
+      <stop offset="100%" stop-color="#0A1F4E" stop-opacity="0.5"/>
+    </linearGradient>
+    <linearGradient id="shine" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#fff" stop-opacity="0.14"/>
+      <stop offset="100%" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="iconClip">
+      <rect x="45" y="55" width="130" height="130" rx="19"/>
+    </clipPath>
+  </defs>
+
+  <rect x="40" y="50" width="140" height="140" fill="#0D1B3E"/>
+  <rect x="40" y="50" width="140" height="140" rx="22" fill="url(#sqBg)"/>
+  <rect x="45" y="55" width="130" height="130" rx="19" fill="url(#inBg)"/>
+  <rect x="45" y="55" width="130" height="40" rx="18" fill="url(#shine)"/>
+
+  <g clip-path="url(#iconClip)">
+    <polygon points="42,78 80,78 99,110 80,142 42,142 23,110" fill="url(#bigGold)" stroke="none"/>
+    <polygon points="74,78 112,78 131,110 112,142 74,142 55,110" fill="url(#bigBlue)" stroke="none"/>
+  </g>
+
+  <text x="113" y="126" text-anchor="middle" font-family="system-ui,-apple-system,'Segoe UI'" font-size="28" font-weight="bold" fill="url(#shad)" opacity="0.55">حروف</text>
+  <text x="110" y="123" text-anchor="middle" font-family="system-ui,-apple-system,'Segoe UI'" font-size="28" font-weight="bold" fill="url(#glr)">حروف</text>
+</svg>

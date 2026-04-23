@@ -1,0 +1,83 @@
+<svg width="100%" viewBox="0 0 680 420" role="img" xmlns="http://www.w3.org/2000/svg">
+  <title style="fill:rgb(0, 0, 0);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">حروف logo gold left blue right</title>
+  <defs>
+    <linearGradient id="sqBg" x1="1" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0A1F4E"/>
+      <stop offset="50%" stop-color="#1B3A7A"/>
+      <stop offset="100%" stop-color="#7A5500"/>
+    </linearGradient>
+    <linearGradient id="inBg" x1="1" y1="1" x2="0" y2="0">
+      <stop offset="0%" stop-color="#060F2A"/>
+      <stop offset="55%" stop-color="#0D2A6E"/>
+      <stop offset="100%" stop-color="#1A4A8A"/>
+    </linearGradient>
+    <linearGradient id="glr" x1="1" y1="0" x2="0" y2="0">
+      <stop offset="0%" stop-color="#FFD700"/>
+      <stop offset="35%" stop-color="#FFE566"/>
+      <stop offset="68%" stop-color="#90CAF9"/>
+      <stop offset="100%" stop-color="#1565C0"/>
+    </linearGradient>
+    <linearGradient id="shad" x1="1" y1="0" x2="0" y2="0">
+      <stop offset="0%" stop-color="#8B6200"/>
+      <stop offset="100%" stop-color="#0A2A60"/>
+    </linearGradient>
+    <linearGradient id="bigGold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FFD700" stop-opacity="0.75"/>
+      <stop offset="100%" stop-color="#8B6200" stop-opacity="0.45"/>
+    </linearGradient>
+    <linearGradient id="bigBlue" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1565C0" stop-opacity="0.75"/>
+      <stop offset="100%" stop-color="#0A1F4E" stop-opacity="0.5"/>
+    </linearGradient>
+    <linearGradient id="shine" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#fff" stop-opacity="0.14"/>
+      <stop offset="100%" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="tgl" x1="1" y1="0" x2="0" y2="0">
+      <stop offset="0%" stop-color="#FFD700"/>
+      <stop offset="100%" stop-color="#90CAF9"/>
+    </linearGradient>
+    <clipPath id="iconClip">
+      <rect x="45" y="55" width="130" height="130" rx="19"/>
+    </clipPath>
+    <clipPath id="logoClip">
+      <rect x="257" y="27" width="376" height="326" rx="29"/>
+    </clipPath>
+  </defs>
+
+  <!-- ═══ MOBILE ICON (left) ═══ -->
+  <rect x="40" y="50" width="140" height="140" rx="22" fill="url(#sqBg)" style="stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <rect x="45" y="55" width="130" height="130" rx="19" fill="url(#inBg)" style="stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <rect x="45" y="55" width="130" height="40" rx="18" fill="url(#shine)" style="stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+  <!-- gold LEFT, blue RIGHT -->
+  <g clip-path="url(#iconClip)" style="fill:rgb(0, 0, 0);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">
+    <polygon points="42,78 80,78 99,110 80,142 42,142 23,110" fill="url(#bigGold)" stroke="none" style="stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+    <polygon points="74,78 112,78 131,110 112,142 74,142 55,110" fill="url(#bigBlue)" stroke="none" style="stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  </g>
+
+  <text x="113" y="126" text-anchor="middle" font-family="'Arial Black',sans-serif" font-size="30" font-weight="900" font-style="italic" fill="url(#shad)" opacity="0.55" style="stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.55;font-family:&quot;Arial Black&quot;, sans-serif;font-size:30px;font-weight:900;font-style:italic;text-anchor:middle;dominant-baseline:auto">حروف</text>
+  <text x="110" y="123" text-anchor="middle" font-family="'Arial Black',sans-serif" font-size="30" font-weight="900" font-style="italic" fill="url(#glr)" style="stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Arial Black&quot;, sans-serif;font-size:30px;font-weight:900;font-style:italic;text-anchor:middle;dominant-baseline:auto">حروف</text>
+
+
+  <!-- ═══ FULL LOGO (right) ═══ -->
+  <rect x="250" y="20" width="390" height="340" rx="34" fill="url(#sqBg)" style="stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <rect x="257" y="27" width="376" height="326" rx="29" fill="url(#inBg)" style="stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <rect x="257" y="27" width="376" height="80" rx="28" fill="url(#shine)" style="stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+  <!-- gold LEFT, blue RIGHT -->
+  <g clip-path="url(#logoClip)" style="fill:rgb(0, 0, 0);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">
+    <polygon points="258,58 351,58 397,132 351,206 258,206 212,132" fill="url(#bigGold)" stroke="none" style="stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+    <polygon points="344,58 437,58 483,132 437,206 344,206 298,132" fill="url(#bigBlue)" stroke="none" style="stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  </g>
+
+  <g clip-path="url(#logoClip)" style="fill:rgb(0, 0, 0);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">
+    <polygon points="258,58 351,58 397,132 351,105 258,105 212,132" fill="#FFD700" opacity="0.07" style="fill:rgb(255, 215, 0);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.07;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+    <polygon points="344,58 437,58 483,132 437,105 344,105 298,132" fill="#90CAF9" opacity="0.06" style="fill:rgb(144, 202, 249);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.06;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  </g>
+
+  <text x="448" y="258" text-anchor="middle" font-family="'Arial Black',sans-serif" font-size="112" font-weight="900" font-style="italic" fill="url(#shad)" opacity="0.45" style="stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.45;font-family:&quot;Arial Black&quot;, sans-serif;font-size:112px;font-weight:900;font-style:italic;text-anchor:middle;dominant-baseline:auto">حروف</text>
+  <text x="444" y="252" text-anchor="middle" font-family="'Arial Black',sans-serif" font-size="112" font-weight="900" font-style="italic" fill="url(#glr)" style="stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Arial Black&quot;, sans-serif;font-size:112px;font-weight:900;font-style:italic;text-anchor:middle;dominant-baseline:auto">حروف</text>
+
+
+</svg>
